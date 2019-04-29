@@ -4,7 +4,7 @@ if(speed>60)
 elsif (speed<=39)
 	return true
 else
-	return true
+	return false
 end
 end
 
